@@ -1,0 +1,117 @@
+Colors
+
+3,4,94       ~Deep Twilight         #03045e 
+2,62,138     ~French Blue           #023e8a
+0,119,182    ~Bright Teal Blue      #0077b6
+0,150,199    ~Blue Green            #0096c7
+0,180,216    ~Turquoise Surf        #00b4d8
+72,202,228   ~Sky Aqua              #48cae4
+144,224,239  ~Frosted Blue          #90e0ef
+173,232,244  ~Light Cyan            #caf0f8
+
+
+
+Simbol react icom
+1.education
+import { FaGraduationCap } from "react-icons/fa";
+<FaGraduationCap />
+
+2.experience 
+import { FaBriefcase } from "react-icons/fa";
+<FaBriefcase />
+
+3 Language
+import { SiSkillshare } from "react-icons/si";
+<SiSkillshare />
+
+4. git hub
+import { FaGithub } from "react-icons/fa";
+<FaGithub />
+
+5. Website
+import { AiOutlineGlobal } from "react-icons/ai";
+<AiOutlineGlobal />
+
+6.frontend
+import { SiDevbox } from "react-icons/si";
+<SiDevbox />
+
+7.brush
+import { BsBrushFill } from "react-icons/bs";
+<BsBrushFill />
+
+8.Therr line
+import { IoReorderThreeOutline } from "react-icons/io5";
+<IoReorderThreeOutline />
+
+9. cross
+import { RxCross2 } from "react-icons/rx";
+<RxCross2 />
+
+10.file
+import { FaRegFileAlt } from "react-icons/fa";
+<FaRegFileAlt />
+
+11.Download
+import { MdOutlineFileDownload } from "react-icons/md";
+<MdOutlineFileDownload />
+
+12. email
+import { MdEmail } from "react-icons/md";
+<MdEmail />
+
+13.Call
+import { IoCall } from "react-icons/io5";
+<IoCall />
+
+14. location 
+import { FaLocationDot } from "react-icons/fa6";
+<FaLocationDot />
+
+15. linkdeen
+import { FaLinkedinIn } from "react-icons/fa6";
+<FaLinkedinIn />
+
+16.Twitter
+import { FaTwitter } from "react-icons/fa";
+<FaTwitter />
+
+17.twitterX
+import { BsTwitterX } from "react-icons/bs";
+<BsTwitterX />
+
+18.Share
+import { CiShare1 } from "react-icons/ci";
+<CiShare1 />
+
+19. telegram
+import { RiTelegram2Fill } from "react-icons/ri";
+<RiTelegram2Fill />
+
+20. right face arrow
+import { MdKeyboardArrowRight } from "react-icons/md";
+<MdKeyboardArrowRight />
+
+21.left face arrow
+import { MdKeyboardArrowLeft } from "react-icons/md";
+<MdKeyboardArrowLeft />
+
+22. folder 
+import { IoFolderOpen } from "react-icons/io5";
+<IoFolderOpen />
+
+23. person
+import { IoMdPerson } from "react-icons/io";
+<IoMdPerson />
+
+24. copyright
+import { FaRegCopyright } from "react-icons/fa";
+<FaRegCopyright />
+
+25.up Arrow
+import { FaRegArrowAltCircleUp } from "react-icons/fa";
+<FaRegArrowAltCircleUp />
+
+26.right Arrow
+import { FaAnglesRight } from "react-icons/fa6";
+<FaAnglesRight />
