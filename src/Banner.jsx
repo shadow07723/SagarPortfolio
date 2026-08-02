@@ -55,7 +55,7 @@ function Banner() {
       </div>
 
       <div className="h-[35vh] w-[35vh] md:h-[30vh] lg:w-[40vh] lg:h-[40vh] md:w-[30vh] rounded-full border-2 mx-auto justify-center flex items-start">
-        <img src="public/my portfolio picher.jpeg" alt="sagar" className=" h-[35vh] w-[35vh] md:h-[30vh] lg:w-[40vh] lg:h-[40vh] md:w-[30vh] rounded-full " />
+        <img src="/my portfolio picher.jpeg" alt="sagar" className=" h-[35vh] w-[35vh] md:h-[30vh] lg:w-[40vh] lg:h-[40vh] md:w-[30vh] rounded-full " />
       </div>
     </section>
   );

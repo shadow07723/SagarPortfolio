@@ -6,10 +6,13 @@ import { SiSkillshare } from "react-icons/si";
 
 function About() {
   return (
-    <div id="about" className="container mx-auto p-4 sm:px-6  min-w-[320px]  grid xl:grid-cols-3 md:grid-cols-2 shadow-md  rounded-xl  shadow-gray-800 mt-5 ">
+    <div
+      id="about"
+      className="container mx-auto p-4 sm:px-6  min-w-[320px]  grid xl:grid-cols-3 md:grid-cols-2 shadow-md  rounded-xl  shadow-gray-800 mt-5 "
+    >
       {/* //!About me poster img */}
       <div className=" hidden xl:flex items-center justify-center">
-<img src="/Aboutme logo.jpeg" alt="" className="h-[25vh] w-[25vw]"/>
+        <img src="/Aboutme logo.jpeg" alt="" className="h-[25vh] w-[25vw]" />
       </div>
 
       {/* //!About me Decription */}
@@ -40,7 +43,7 @@ function About() {
         {/* //! Skills section */}
         <div className="flex  gap-3">
           <div>
-            <FaBriefcase className="text-3xl"/>
+            <FaBriefcase className="text-3xl" />
           </div>
           <div>
             <h1>Experience</h1>
@@ -50,7 +53,7 @@ function About() {
         {/* //! Skills Language */}
         <div className="flex  gap-3">
           <div>
-            <SiSkillshare className="text-3xl"/>
+            <SiSkillshare className="text-3xl" />
           </div>
           <div>
             <h1>Experience</h1>
