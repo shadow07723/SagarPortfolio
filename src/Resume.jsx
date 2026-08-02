@@ -15,7 +15,7 @@ function Resume() {
       <div id="resume" className=" grid grid-cols-2 justify-between items-center bg-[#03045e] p-4 shadow-md shadow-gray-900 my-5 min-w-[320px] overflow-x-auto">
         <div className="flex justify-center items-center gap-4">
           <div>
-            <FaRegFileAlt  className="text-6xl text-white" />
+            <FaRegFileAlt  className="text-4xl text-white" />
           </div>
           
           <div>
