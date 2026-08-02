@@ -4,7 +4,7 @@ import { MdOutlineFileDownload } from "react-icons/md";
 function Resume() {
   const downloadCV = () => {
     const link = document.createElement("a");
-    link.href = "public/1 FOUNDATION COURSE -1 HINDI.pdf";  
+    link.href = "/1 FOUNDATION COURSE -1 HINDI.pdf";  
     link.download = "my-cv.pdf";
     document.body.appendChild(link);
     link.click();

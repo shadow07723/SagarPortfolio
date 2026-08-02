@@ -12,15 +12,15 @@ function QuikOption() {
       .scrollIntoView({ behavior: "smooth", block: "start" });
   };
   return (
-    <div className="min-w-[320px] overflow-x-auto lg:hidden flex items-center justify-center xl:gap-4 gap-3 text-xl  font-bold z-50 fixed bottom-0 w-screen  p-2">
+    <div className="min-w-[320px] overflow-x-auto md:hidden flex items-center justify-center xl:gap-4 gap-3 text-xl  font-bold z-50 fixed bottom-0 w-screen  p-2">
       <div className="flex items-center justify-center md:gap-10 gap-9 text-xl bg-[#03045e] text-white  font-bold z-50 w-fit h-10  p-2 rounded-full shadow-md shadow-gray-900 ">
         <a href="#">
           <IoIosHome />
         </a>
-        <a href=""><IoMdPerson onClick={() => scrollToSection("about")} /></a>
-        <a href=""><IoFolderOpen onClick={() => scrollToSection("project")} /></a>
-        <a href=""><FaRegFileAlt onClick={() => scrollToSection("resume")} /></a>
-        <a href=""><MdEmail onClick={() => scrollToSection("ContactMe")} /></a>
+        <button><IoMdPerson onClick={() => scrollToSection("about")} /></button>
+        <button><IoFolderOpen onClick={() => scrollToSection("project")} /></button>
+        <button><FaRegFileAlt onClick={() => scrollToSection("resume")} /></button>
+        <button><MdEmail onClick={() => scrollToSection("ContactMe")} /></button>
       </div>
     </div>
   );
