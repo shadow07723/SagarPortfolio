@@ -42,7 +42,7 @@ function Banner() {
           <a href="https://github.com/sagar" target="_blank" rel="noopener noreferrer">
             <FaGithub className="text-2xl"/>
           </a>
-          <a href="https://linkedin.com/in/sagar" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/sagar-ray-03085039a?utm_source=share_via&utm_content=profile&utm_medium=member_androidgi" target="_blank" rel="noopener noreferrer">
             <FaLinkedinIn className="text-2xl text-blue-800"/>
           </a>
           <a href="https://twitter.com/sagar" target="_blank" rel="noopener noreferrer">
