@@ -8,7 +8,7 @@ import { FaTwitter } from "react-icons/fa";
 
 function ContactMe() {
   return (
-    <div id="ContactMe" className=" grid lg:grid-cols-2  gap-9 items-center justify-center   min-w-[320px] w-screen overflow-x-auto my-5  ">
+    <div id="ContactMe" className=" grid lg:grid-cols-2  gap-9 items-center justify-center   min-w-[320px]  overflow-x-auto my-5 pb-9">
       <div className="flex flex-col gap-4 justify-center items-center py-7 bg-[#03045e] lg:bg-white   shadow-md shadow-gray-900 lg:shadow-none   w-screen lg:w-auto ">
         <div>
           <span className="flex items-center gap-4 text-2xl font-semibold">

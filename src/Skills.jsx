@@ -47,7 +47,7 @@ function Skills({ Skill }) {
         {visibleCards.map((Skill) => (
           <div
             key={Skill.id}
-            className={`border rounded-lg  p-3 text-center  ${Skill.title === ".Net" || Skill.title === "PostMan" || Skill.title === "Vircal" ? "opacity-30" : "shadow-lg"}`}
+            className={`border rounded-lg  p-3 text-center  ${Skill.title === ".Net" || Skill.title === "PostMan" || Skill.title === "Node JS" ? "opacity-30" : "shadow-lg"}`}
           >
             <img
               src={Skill.img}

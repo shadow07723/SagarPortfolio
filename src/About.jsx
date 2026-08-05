@@ -56,8 +56,8 @@ function About() {
             <SiSkillshare className="text-3xl" />
           </div>
           <div>
-            <h1>Experience</h1>
-            <p>Fresher</p>
+            <h1>Languages</h1>
+            <p>HTML,CSS,JS,React,etc.</p>
           </div>
         </div>
       </div>
